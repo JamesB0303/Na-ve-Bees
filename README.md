@@ -1,1 +1,1 @@
-# Naïve Bees
+# Naïve Bees: Image Loading and Processing
