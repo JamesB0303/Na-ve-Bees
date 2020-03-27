@@ -1,1 +1,1 @@
-# Na-ve-Bees
+# Naïve Bees
